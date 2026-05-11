@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MEUstrategy
 This website exists to motivate up coming entrepreneurs to believe in their business dream with the help of **MEUstrategy** consultants.
 
@@ -25,3 +26,6 @@ Imani Naitore
 GitHub: https://github.com/imaninaitore
 
 Email: imaninaitore1726@gmail.com
+=======
+#MEUstrategy
+>>>>>>> 4810a52147283e4212b16183aaf88f7349196389
