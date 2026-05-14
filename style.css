@@ -37,3 +37,13 @@ img{
     width: 300px;height: 300px;
     border-radius: 8px;
 }
+/*child selector*/
+div h3{
+    color: black;
+    text-decoration-line: underline;
+}
+
+h2::before{
+    content: "Our ";
+    font-style: oblique;
+}
