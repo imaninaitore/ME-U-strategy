@@ -43,7 +43,24 @@ div h3{
     text-decoration-line: underline;
 }
 
+
 h2::before{
     content: "Our ";
     font-style: oblique;
+}
+
+.section-heading{
+    color: aliceblue;
+}
+
+.social-links{
+    font-size:medium;
+}
+.contact{
+    font-style: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blue;
+}
+
+.paper-plane{
 }
